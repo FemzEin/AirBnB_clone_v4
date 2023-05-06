@@ -58,6 +58,7 @@ Where we are creating a command line interpretor to access objects that will sto
 ----------------------------------------
 
 **Authors**
+- **Albert James**, \<femzein@gmail.com>, @FemzEin
 - **Philip Yoo**, \<philip.yoo@holbertonschool.com>, @philipYoo10
 - **Jianqin Wang**, \<jianqin.wang@holbertonschool.com>, @jianqinwang94
 - **Anne Cognet**, \<anne.cognet@holbertonschool.com>, @1million40
